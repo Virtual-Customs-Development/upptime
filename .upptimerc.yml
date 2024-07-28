@@ -7,6 +7,7 @@ sites:
     url: https://virtualcustoms.net/
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co/
+    icon: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
     
 status-website:
   theme: ocean
