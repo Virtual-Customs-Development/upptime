@@ -8,6 +8,7 @@ sites:
     showUrlInNotifications: false
   - name: Test Alert
     url: https://test.url
+    icon: https://github.com/$OWNER/$REPO/assets/testing-icon.png?raw=true
     ShowUrlInNotifications: false
     
 status-website:
