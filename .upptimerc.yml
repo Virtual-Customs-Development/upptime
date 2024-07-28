@@ -5,6 +5,7 @@ user-agent: Virtual-Customs-Development
 sites:
   - name: Virtual Customs
     url: https://virtualcustoms.net/
+    icon: https://icons.duckduckgo.com/ip3/virtualcustoms.net.ico
   # - name: Test Alert
   #   url: https://thissitedoesnotexist.net/
     
