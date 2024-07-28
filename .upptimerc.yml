@@ -6,7 +6,7 @@ user-agent: Virtual-Customs-Development
 sites:
   - name: Virtual Customs
     url: $VIRTUAL_CUSTOMS_URL
-    icon: $VIRTUAL_CUSTOMS_URL/favicon.ico
+    icon: $VIRTUAL_CUSTOMS_ICON_URL
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
