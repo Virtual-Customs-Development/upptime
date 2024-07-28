@@ -6,6 +6,9 @@ sites:
   - name: Virtual Customs
     url: https://virtualcustoms.net
     method: POST
+  - name: Test
+    url: https://test.me
+    method: POST
     
 status-website:
   theme: ocean
