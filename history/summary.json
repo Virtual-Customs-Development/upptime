@@ -10,11 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 705,
-    "timeDay": 705,
-    "timeWeek": 705,
-    "timeMonth": 705,
-    "timeYear": 705,
+    "time": 712,
+    "timeDay": 712,
+    "timeWeek": 712,
+    "timeMonth": 712,
+    "timeYear": 712,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Test Alert",
+    "url": "https://test.url",
+    "icon": "https://icons.duckduckgo.com/ip3/test.url.ico",
+    "slug": "test-alert",
+    "status": "down",
+    "uptime": "15.35%",
+    "uptimeDay": "15.35%",
+    "uptimeWeek": "15.35%",
+    "uptimeMonth": "15.35%",
+    "uptimeYear": "15.35%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-07-28": 0
+    }
   }
 ]
