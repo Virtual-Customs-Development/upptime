@@ -4,10 +4,10 @@ user-agent: Virtual-Customs-Development
 
 sites:
   - name: Virtual Customs
-    url: https://virtualcustoms.net/
-    icon: https://icons.duckduckgo.com/ip3/virtualcustoms.net.ico
-  # - name: Test Alert
-  #   url: https://thissitedoesnotexist.net/
+    url: $WEBSITE_URL_ONE
+    icon: $WEBSITE_ICON_URL_ONE
+  # - name: Test Broken Site
+  #   url: $TEST_WEBSITE_URL
     
 status-website:
   theme: ocean
