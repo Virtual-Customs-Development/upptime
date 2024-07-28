@@ -4,9 +4,8 @@ user-agent: Virtual-Customs-Development
 
 sites:
   - name: Virtual Customs
-    url: https://$WEBSITE_URL
-    icon: https://icons.duckduckgo.com/ip3/$WEBSITE_URL.ico
-    showUrlInNotifications: false
+    url: https://virtualcustoms.net 
+    showUrlInNotifications: true
     
 status-website:
   theme: ocean
