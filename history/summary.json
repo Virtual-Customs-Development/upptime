@@ -1,8 +1,8 @@
 [
   {
     "name": "Virtual Customs",
-    "url": "https://virtualcustoms.net/",
-    "icon": "https://icons.duckduckgo.com/ip3/virtualcustoms.net.ico",
+    "url": "$WEBSITE_URL_ONE",
+    "icon": "$WEBSITE_ICON_URL_ONE",
     "slug": "virtual-customs",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 724,
-    "timeDay": 724,
-    "timeWeek": 724,
-    "timeMonth": 724,
-    "timeYear": 724,
+    "time": 716,
+    "timeDay": 716,
+    "timeWeek": 716,
+    "timeMonth": 716,
+    "timeYear": 716,
     "dailyMinutesDown": {}
   }
 ]
