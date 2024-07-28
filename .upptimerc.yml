@@ -4,8 +4,8 @@ user-agent: Virtual-Customs-Development
 
 sites:
   - name: Virtual Customs
-    url: $VIRTUAL_CUSTOMS_URL
-    icon: $VIRTUAL_CUSTOMS_ICON_URL
+    url: https://virtualcustoms.net
+    method: POST
     
 status-website:
   theme: ocean
