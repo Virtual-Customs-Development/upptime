@@ -4,7 +4,7 @@ user-agent: Virtual-Customs-Development
 
 sites:
   - name: Virtual Customs
-    url: https://virtualcustoms.net 
+    url: $WEBSITE_URL
     showUrlInNotifications: false
     
 status-website:
