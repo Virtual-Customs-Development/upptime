@@ -10,17 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 711,
-    "timeDay": 711,
-    "timeWeek": 711,
-    "timeMonth": 711,
-    "timeYear": 711,
+    "time": 713,
+    "timeDay": 713,
+    "timeWeek": 713,
+    "timeMonth": 713,
+    "timeYear": 713,
     "dailyMinutesDown": {}
   },
   {
     "name": "Test Broken Site",
     "url": "https://thissitedoesnotexist.koj.co/",
-    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
+    "icon": "https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg",
     "slug": "test-broken-site",
     "status": "down",
     "uptime": "0.00%",
@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-28": 0
+      "2024-07-28": 9
     }
   }
 ]
