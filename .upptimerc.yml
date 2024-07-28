@@ -7,7 +7,7 @@ sites:
     url: https://virtualcustoms.net
     method: POST
   - name: Test
-    url: https://test.me
+    url: https://test.url
     method: POST
     
 status-website:
