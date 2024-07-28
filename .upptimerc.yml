@@ -3,7 +3,7 @@ repo: upptime
 user-agent: Virtual-Customs-Development
 
 sites:
-  - name: $WEBSITE_NAME
+  - name: Virtual Customs
     url: $WEBSITE_URL
     showUrlInNotifications: false
     
