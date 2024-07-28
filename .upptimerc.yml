@@ -6,6 +6,9 @@ sites:
   - name: Virtual Customs
     url: $WEBSITE_URL
     showUrlInNotifications: false
+  - name: Test Broken Site
+    url: $TEST_BROKEN_URL
+    showUrlInNotifications: false
     
 status-website:
   theme: ocean
