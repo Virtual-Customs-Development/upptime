@@ -1,8 +1,8 @@
 [
   {
     "name": "Virtual Customs",
-    "url": "$WEBSITE_URL",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "url": "https://virtualcustoms.net/",
+    "icon": "https://icons.duckduckgo.com/ip3/virtualcustoms.net.ico",
     "slug": "virtual-customs",
     "status": "up",
     "uptime": "100.00%",
@@ -10,31 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 713,
-    "timeDay": 713,
-    "timeWeek": 713,
-    "timeMonth": 713,
-    "timeYear": 713,
+    "time": 718,
+    "timeDay": 718,
+    "timeWeek": 718,
+    "timeMonth": 718,
+    "timeYear": 718,
     "dailyMinutesDown": {}
   },
   {
     "name": "Test Broken Site",
-    "url": "$TEST_BROKEN_URL",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "url": "https://thissitedoesnotexist.net/",
+    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.net.ico",
     "slug": "test-broken-site",
     "status": "down",
-    "uptime": "3.85%",
-    "uptimeDay": "3.85%",
-    "uptimeWeek": "3.85%",
-    "uptimeMonth": "3.85%",
-    "uptimeYear": "3.85%",
+    "uptime": "0.13%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "0.13%",
+    "uptimeYear": "0.13%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-28": 0
+      "2024-07-28": 6
     }
   }
 ]
