@@ -20,4 +20,4 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Discord
-      href: https://discord.com/invite/ZcWbSZyR76
+      href: $DISCORD_INVITE_URL
