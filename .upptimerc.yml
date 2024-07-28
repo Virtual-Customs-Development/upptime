@@ -5,8 +5,6 @@ user-agent: Virtual-Customs-Development
 sites:
   - name: Virtual Customs
     url: https://virtualcustoms.net
-  - name: Test
-    url: https://test.url
     
 status-website:
   theme: ocean
