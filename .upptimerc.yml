@@ -4,11 +4,9 @@ user-agent: Virtual-Customs-Development
 
 sites:
   - name: Virtual Customs
-    url: $WEBSITE_URL
-    showUrlInNotifications: false
+    url: https://virtualcustoms.net/
   - name: Test Broken Site
-    url: $TEST_BROKEN_URL
-    showUrlInNotifications: false
+    url: https://thissitedoesnotexist.net/
     
 status-website:
   theme: ocean
