@@ -19,5 +19,3 @@ status-website:
       href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-    - title: Discord
-      href: $DISCORD_INVITE_URL
