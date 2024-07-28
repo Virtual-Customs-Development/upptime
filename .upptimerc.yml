@@ -6,6 +6,9 @@ sites:
   - name: Virtual Customs
     url: https://virtualcustoms.net
     showUrlInNotifications: false
+  - name: Test Alert
+    url: https://test.url
+    ShowUrlInNotifications: false
     
 status-website:
   theme: ocean
