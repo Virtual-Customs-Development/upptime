@@ -1,6 +1,6 @@
 [
   {
-    "name": "Virtual Customs - Forums",
+    "name": "Virtual Customs Forums",
     "url": "https://virtualcustoms.net/",
     "icon": "https://icons.duckduckgo.com/ip3/virtualcustoms.net.ico",
     "slug": "virtual-customs-forums",
@@ -10,15 +10,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 891,
-    "timeDay": 891,
-    "timeWeek": 891,
-    "timeMonth": 891,
-    "timeYear": 891,
+    "time": 889,
+    "timeDay": 889,
+    "timeWeek": 889,
+    "timeMonth": 889,
+    "timeYear": 889,
     "dailyMinutesDown": {}
   },
   {
-    "name": "Virtual Customs - Facebook",
+    "name": "Virtual Customs Facebook",
     "url": "https://www.facebook.com/profile.php?id=100066888865859",
     "icon": "https://icons.duckduckgo.com/ip3/www.facebook.com.ico",
     "slug": "virtual-customs-facebook",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 434,
-    "timeDay": 434,
-    "timeWeek": 434,
-    "timeMonth": 434,
-    "timeYear": 434,
+    "time": 764,
+    "timeDay": 764,
+    "timeWeek": 764,
+    "timeMonth": 764,
+    "timeYear": 764,
     "dailyMinutesDown": {}
   }
 ]
