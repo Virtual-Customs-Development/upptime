@@ -3,6 +3,7 @@
 This repository contains the open-source uptime monitor and status page for [Virtual Customs Development](https://Virtual-Customs-Development.github.io/upptime), powered by [Upptime](https://github.com/upptime/upptime).
 
 ![Uptime](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fvirtual-customs-development%2Fupptime%2Fmaster%2Fapi%2Fgoogle%2Fuptime.json)
+![Uptime](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fvirtual-customs-development%2Fupptime%2Fmaster%2Fapi%2Fgoogle%2Fresponse-time.json)
 
 
 [![Uptime CI](https://github.com/Virtual-Customs-Development/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/Virtual-Customs-Development/upptime/actions?query=workflow%3A%22Uptime+CI%22)
