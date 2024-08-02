@@ -23,3 +23,5 @@ status-website:
       href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Social
+      href: /social.html
