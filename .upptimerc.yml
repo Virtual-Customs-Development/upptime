@@ -3,9 +3,9 @@ repo: upptime
 user-agent: Virtual-Customs-Development
 
 sites:
-  - name: Virtual Customs - Forums
+  - name: Virtual Customs Forums
     url: https://virtualcustoms.net/
-  - name: Virtual Customs - Facebook
+  - name: Virtual Customs Facebook
     url: https://www.facebook.com/profile.php?id=100066888865859
   # - name: Test Broken Site
   #   url: https://thissitedoesnotexist.koj.co/
