@@ -21,10 +21,6 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-<!--start: Discord widget-->
-<img src="https://discord.com/widget?id=1257829046348288124&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></img>
-<!--end: Discord widget-->
-
 [**Visit our status website →**](https://Virtual-Customs-Development.github.io/upptime)
 
 ## 📄 License
