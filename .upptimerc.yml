@@ -12,6 +12,8 @@ sites:
   #   icon: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
     
 status-website:
+  scripts:
+    - src: https://discord.com/api/guilds/1257829046348288124/widget.json
   customBodyHtml: <iframe src="https://discord.com/widget?id=1257829046348288124&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
   theme: ocean
   baseUrl: /upptime
