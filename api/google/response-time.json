@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "label": "Response Time",
+  "label": "response time",
   "message": "100%",
   "color": "brightgreen"
 }
