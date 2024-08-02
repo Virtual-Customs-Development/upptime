@@ -8,20 +8,6 @@ This repository contains the open-source uptime monitor and status page for [Vir
 [![Static Site CI](https://github.com/Virtual-Customs-Development/upptime/workflows/Static%20Site%20CI/badge.svg)](https://github.com/Virtual-Customs-Development/upptime/actions?query=workflow%3A%22Static+Site+CI%22)
 [![Summary CI](https://github.com/Virtual-Customs-Development/upptime/workflows/Summary%20CI/badge.svg)](https://github.com/Virtual-Customs-Development/upptime/actions?query=workflow%3A%22Summary+CI%22)
 
-## Uptime
-
-![Uptime](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fvirtual-customs-development%2Fupptime%2Fmaster%2Fapi%2Fvirtual-customs%2Fuptime-day.json)
-![Uptime](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fvirtual-customs-development%2Fupptime%2Fmaster%2Fapi%2Fvirtual-customs%2Fuptime-week.json)
-![Uptime](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fvirtual-customs-development%2Fupptime%2Fmaster%2Fapi%2Fvirtual-customs%2Fuptime-month.json)
-![Uptime](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fvirtual-customs-development%2Fupptime%2Fmaster%2Fapi%2Fvirtual-customs%2Fuptime-year.json)
-
-## Response Time
-
-![Uptime](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fvirtual-customs-development%2Fupptime%2Fmaster%2Fapi%2Fvirtual-customs%2Fresponse-time-day.json)
-![Uptime](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fvirtual-customs-development%2Fupptime%2Fmaster%2Fapi%2Fvirtual-customs%2Fresponse-time-week.json)
-![Uptime](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fvirtual-customs-development%2Fupptime%2Fmaster%2Fapi%2Fvirtual-customs%2Fresponse-time-month.json)
-![Uptime](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fvirtual-customs-development%2Fupptime%2Fmaster%2Fapi%2Fvirtual-customs%2Fresponse-time-year.json)
-
 With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/Virtual-Customs-Development/upptime/issues) as incident reports, [Actions](https://github.com/Virtual-Customs-Development/upptime/actions) as uptime monitors, and [Pages](https://Virtual-Customs-Development.github.io/upptime) for the status page.
 
 <!--start: status pages-->
